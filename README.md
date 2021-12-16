@@ -1,4 +1,4 @@
-# Algorithms Exercises
+# Algorithms Log
 
 ## OPTION 1: External JS
 ### Use this method if you want to have **one** `index.html` that links to external JS.
