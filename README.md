@@ -6,6 +6,8 @@
 * Make new `.js` files for each exercise, i.e. `touch squirrel-play.js`
 * In your `index.html` change the `<script src="script.js">` to use whichever `js` file you want to test out. Change this each time you want to test out a new exercise.
 
+##### Alternatively, you could write in **one** `script.js`, and comment out a function call when you don't want to run it.
+
 ---
 
 ## OPTION 2: Embedded JS
@@ -14,3 +16,5 @@
 * Do not ever edit your `index.html` file. This will be the template.
 * Each time you want to try a new exercise, make a copy of `index.html` and give it a new name.
   * Example: `cp index.html squirrel-play.html`
+
+##### Alternatively, you could write in **one** `index.html`, and comment out a function call when you don't want to run it.
