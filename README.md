@@ -9,7 +9,7 @@
 ---
 
 ## OPTION 2: Embedded JS
-### Use this method if you want to make each file a standalone file that has embedded JS.
+### Use this method if you want to make each program a standalone file that has embedded JS.
 #### The advantage here is that you run the file you want to test. The disadvantage is that the JS is buried in the HTML.
 * Do not ever edit your `index.html` file. This will be the template.
 * Each time you want to try a new exercise, make a copy of `index.html` and give it a new name.
