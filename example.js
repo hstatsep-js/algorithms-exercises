@@ -1,3 +1,12 @@
+/***********************************************************************************************************
+GOOGLE SHEET LOG:
+https://docs.google.com/spreadsheets/d/1Xp6zKu1ZjR_AhIALSF5iwUyxtMLR8Kvcxzs7FE0EoGQ/edit#gid=765869514
+************************************************************************************************************/
+
+
+
+
+
 // https://github.com/hstatsep-js/loops/blob/main/longest-words.html
 // INPUT: a string containing a phrase
 // ALGORITHM: split string into array of words, then loop through each word to find the "reigning champ" length, then loop again to find all words of that length
