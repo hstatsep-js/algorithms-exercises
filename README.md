@@ -7,5 +7,5 @@
     * Include a link to the original exercise.
     * Include the function definition, with your algorithm and comments.
     * Include a few of the function calls, and comment them out when you're not using them.
-    * Include **5** blank lines between examples.
+    * Include **5** blank lines between exercises.
 * Look at `example.js` for an example.
